@@ -1,0 +1,32 @@
+Projeto Microinformática
+
+MS-WORD : Análise de uma situação real (resumo de reuniões)
+MS-Excel : Custos, despesas, hora homem (preço pelo tempo trabalhado) e receitas (se não for cobrado, valores devem ser simulados) - Contas a pagar, contas a receber e saldo
+MS-Power Point : apresentação da metodologia do projeto
+- Capa (nome do trio e nome do projeto)
+- Introdução (contextualização)
+- Objetivo geral (O presente projeto tem por objetivo cumprir os requisitos mínimos de aprovação da disciplina de Microinformática)
+- Objetivo específico (para quem? Qual a necessidade que ele vai suprir?)
+- Fundamentação Teórica (Revisão da bibliografia) - O que você estudou para desenvolver o projeto?
+- Materiais e métodos (Metodologia) - onde você fez? Quais ferramentas você utilizou? Todos os recursos de hardware e software que usou para o projeto (Hardware específico, SO, google chrome, versão das ferramentas)
+- Desenvolvimento (print index, print vs code - e ir pra demonstração do site)
+- Resultados (foi um projeto bem ou malsucedido? Você evoluiu como profissional? Pedir opinião do cliente é legal)
+- Conclusões (Parágrafo introdutório: objetivo específico, conjugado no passado + o que nós aprendemos ao fazer esse projeto? Por que valeu a pena fazer esse projeto?) - Eaí, cumpriu ou não o objetivo?
+- Bibliografia
+
+TEMPO APRESENTAÇÃO: 13 minutos
+
+HTML/CSS/.. : site de uma pessoa, empresa ou evento
+Git/GitHub : código fonte
+
+ENTREGA: 20 de junho (aproximado)
+
+
+CLIENTE:
+- Pedir ajuda pra minha turma
+- Pedir ajuda pras outras turmas
+- Postar nas redes sociais (divulgar em tudo)
+
+Site de moda?
+
+
